@@ -1,0 +1,287 @@
+- generic [ref=f6e1]:
+  - navigation [ref=f6e2]:
+    - generic [ref=f6e4]:
+      - list [ref=f6e6]:
+        - listitem [ref=f6e7]:
+          - link "$ Currency " [ref=f6e10] [cursor=pointer]:
+            - /url: "#"
+            - strong [ref=f6e11]: $
+            - text: Currency
+            - generic [ref=f6e12]: 
+        - listitem
+      - list [ref=f6e14]:
+        - listitem [ref=f6e15]:
+          - link " 123456789" [ref=f6e16] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=information/contact&language=en-gb
+            - generic [ref=f6e17]: 
+            - text: "123456789"
+        - listitem [ref=f6e18]:
+          - link " My Account " [ref=f6e20] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f6e21]: 
+            - text: My Account
+            - generic [ref=f6e22]: 
+        - listitem [ref=f6e23]:
+          - link " Wish List (0)" [ref=f6e24] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=account/wishlist&language=en-gb
+            - generic [ref=f6e25]: 
+            - text: Wish List (0)
+        - listitem [ref=f6e26]:
+          - link " Shopping Cart" [ref=f6e27] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=checkout/cart&language=en-gb
+            - generic [ref=f6e28]: 
+            - text: Shopping Cart
+        - listitem [ref=f6e29]:
+          - link " Checkout" [ref=f6e30] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=checkout/checkout&language=en-gb
+            - generic [ref=f6e31]: 
+            - text: Checkout
+  - banner [ref=f6e32]:
+    - generic [ref=f6e34]:
+      - link [ref=f6e37] [cursor=pointer]:
+        - /url: https://www.cloudberrystore.services/index.php?route=common/home&language=en-gb
+        - img "Your Store" [ref=f6e38]
+      - generic [ref=f6e40]:
+        - textbox "Search" [ref=f6e41]: MacBook
+        - button "" [ref=f6e42] [cursor=pointer]
+      - button " 0 item(s) - $0.00" [ref=f6e46] [cursor=pointer]:
+        - generic [ref=f6e47]: 
+        - text: 0 item(s) - $0.00
+  - main [ref=f6e48]:
+    - navigation [ref=f6e50]:
+      - text: 
+      - list [ref=f6e52]:
+        - listitem [ref=f6e53]:
+          - link "Desktops" [ref=f6e54] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=20
+        - listitem [ref=f6e55]:
+          - link "Laptops & Notebooks" [ref=f6e56] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=18
+        - listitem [ref=f6e57]:
+          - link "Components" [ref=f6e58] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25
+        - listitem [ref=f6e59]:
+          - link "Tablets" [ref=f6e60] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=57
+        - listitem [ref=f6e61]:
+          - link "Software" [ref=f6e62] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=17
+        - listitem [ref=f6e63]:
+          - link "Phones & PDAs" [ref=f6e64] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=24
+        - listitem [ref=f6e65]:
+          - link "Cameras" [ref=f6e66] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=33
+        - listitem [ref=f6e67]:
+          - link "MP3 Players" [ref=f6e68] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34
+    - generic [ref=f6e69]:
+      - list [ref=f6e70]:
+        - listitem [ref=f6e71]:
+          - link "" [ref=f6e72] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=common/home&language=en-gb
+        - listitem [ref=f6e74]:
+          - link "Search" [ref=f6e75] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/search&language=en-gb&search=MacBook
+      - generic [ref=f6e77]:
+        - heading "Search - MacBook" [level=1] [ref=f6e78]
+        - generic [ref=f6e79]: Search Criteria
+        - generic [ref=f6e82]:
+          - generic [ref=f6e83]:
+            - textbox "Search Criteria" [ref=f6e84]:
+              - /placeholder: Keywords
+              - text: MacBook
+            - generic [ref=f6e85]:
+              - checkbox "Search in product descriptions" [ref=f6e86]
+              - generic [ref=f6e87]: Search in product descriptions
+          - generic [ref=f6e88]:
+            - combobox [ref=f6e89]:
+              - option "All Categories" [selected]
+              - option "Desktops"
+              - option "PC"
+              - option "Mac"
+              - option "Laptops & Notebooks"
+              - option "Macs"
+              - option "Windows"
+              - option "Components"
+              - option "Mice and Trackballs"
+              - option "Monitors"
+              - option "test 1"
+              - option "test 2"
+              - option "Printers"
+              - option "Scanners"
+              - option "Web Cameras"
+              - option "Tablets"
+              - option "Software"
+              - option "Phones & PDAs"
+              - option "Cameras"
+              - option "MP3 Players"
+              - option "test 11"
+              - option "test 12"
+              - option "test 15"
+              - option "test 16"
+              - option "test 17"
+              - option "test 18"
+              - option "test 19"
+              - option "test 20"
+              - option "test 25"
+              - option "test 21"
+              - option "test 22"
+              - option "test 23"
+              - option "test 24"
+              - option "test 4"
+              - option "test 5"
+              - option "test 6"
+              - option "test 7"
+              - option "test 8"
+              - option "test 9"
+            - generic [ref=f6e90]:
+              - checkbox "Search in subcategories" [disabled]
+              - generic [ref=f6e91]: Search in subcategories
+        - button "Search" [ref=f6e94] [cursor=pointer]
+        - separator [ref=f6e95]
+        - heading "Products meeting the search criteria" [level=2] [ref=f6e96]
+        - generic [ref=f6e97]:
+          - link " Product Compare (0)" [ref=f6e100] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/compare&language=en-gb
+            - generic [ref=f6e101]: 
+            - text: Product Compare (0)
+          - generic [ref=f6e103]:
+            - button "" [ref=f6e104] [cursor=pointer]
+            - button "" [ref=f6e106] [cursor=pointer]
+          - generic [ref=f6e109]:
+            - generic [ref=f6e110]: Sort By
+            - combobox "Sort By" [ref=f6e111]:
+              - option "Default" [selected]
+              - option "Name (A - Z)"
+              - option "Name (Z - A)"
+              - option "Price (Low > High)"
+              - option "Price (High > Low)"
+              - option "Rating (Highest)"
+              - option "Rating (Lowest)"
+              - option "Model (A - Z)"
+              - option "Model (Z - A)"
+          - generic [ref=f6e113]:
+            - generic [ref=f6e114]: Show
+            - combobox "Show" [ref=f6e115]:
+              - option "10" [selected]
+              - option "25"
+              - option "50"
+              - option "75"
+              - option "100"
+        - generic [ref=f6e116]:
+          - generic [ref=f6e118]:
+            - link [ref=f6e120] [cursor=pointer]:
+              - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=43&search=MacBook
+              - img "MacBook" [ref=f6e121]
+            - generic [ref=f6e122]:
+              - generic [ref=f6e123]:
+                - heading [level=4] [ref=f6e124]:
+                  - link "MacBook" [ref=f6e125] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=43&search=MacBook
+                - paragraph [ref=f6e126]: Intel Core 2 Duo processor Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, t..
+                - generic [ref=f6e127]:
+                  - text: $602.00
+                  - generic [ref=f6e128]: "Ex Tax: $500.00"
+              - generic [ref=f6e129]:
+                - button "" [ref=f6e130] [cursor=pointer]
+                - button "" [ref=f6e132] [cursor=pointer]
+                - button "" [ref=f6e134] [cursor=pointer]
+          - generic [ref=f6e137]:
+            - link [ref=f6e139] [cursor=pointer]:
+              - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=44&search=MacBook
+              - img "MacBook Air" [ref=f6e140]
+            - generic [ref=f6e141]:
+              - generic [ref=f6e142]:
+                - heading [level=4] [ref=f6e143]:
+                  - link "MacBook Air" [ref=f6e144] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=44&search=MacBook
+                - paragraph [ref=f6e145]: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose in..
+                - generic [ref=f6e146]:
+                  - text: $1,202.00
+                  - generic [ref=f6e147]: "Ex Tax: $1,000.00"
+              - generic [ref=f6e148]:
+                - button "" [ref=f6e149] [cursor=pointer]
+                - button "" [ref=f6e151] [cursor=pointer]
+                - button "" [ref=f6e153] [cursor=pointer]
+          - generic [ref=f6e156]:
+            - link [ref=f6e158] [cursor=pointer]:
+              - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=45&search=MacBook
+              - img "MacBook Pro" [ref=f6e159]
+            - generic [ref=f6e160]:
+              - generic [ref=f6e161]:
+                - heading [level=4] [ref=f6e162]:
+                  - link "MacBook Pro" [ref=f6e163] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=45&search=MacBook
+                - paragraph [ref=f6e164]: Latest Intel mobile architecture Powered by the most advanced mobile processors from Intel, ..
+                - generic [ref=f6e165]:
+                  - text: $2,000.00
+                  - generic [ref=f6e166]: "Ex Tax: $2,000.00"
+              - generic [ref=f6e167]:
+                - button "" [ref=f6e168] [cursor=pointer]
+                - button "" [ref=f6e170] [cursor=pointer]
+                - button "" [ref=f6e172] [cursor=pointer]
+        - generic [ref=f6e174]: Showing 1 to 3 of 3 (1 Pages)
+  - contentinfo [ref=f6e177]:
+    - generic [ref=f6e178]:
+      - generic [ref=f6e179]:
+        - generic [ref=f6e180]:
+          - heading "Information" [level=5] [ref=f6e181]
+          - list [ref=f6e182]:
+            - listitem [ref=f6e183]:
+              - link "Terms & Conditions" [ref=f6e184] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=2
+            - listitem [ref=f6e185]:
+              - link "Delivery Information" [ref=f6e186] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=4
+            - listitem [ref=f6e187]:
+              - link "About Us" [ref=f6e188] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=1
+            - listitem [ref=f6e189]:
+              - link "Privacy Policy" [ref=f6e190] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=3
+        - generic [ref=f6e191]:
+          - heading "Customer Service" [level=5] [ref=f6e192]
+          - list [ref=f6e193]:
+            - listitem [ref=f6e194]:
+              - link "Contact Us" [ref=f6e195] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/contact&language=en-gb
+            - listitem [ref=f6e196]:
+              - link "Returns" [ref=f6e197] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/returns.add&language=en-gb
+            - listitem [ref=f6e198]:
+              - link "Site Map" [ref=f6e199] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/sitemap&language=en-gb
+        - generic [ref=f6e200]:
+          - heading "Extras" [level=5] [ref=f6e201]
+          - list [ref=f6e202]:
+            - listitem [ref=f6e203]:
+              - link "Brands" [ref=f6e204] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/manufacturer&language=en-gb
+            - listitem [ref=f6e205]:
+              - link "Affiliate" [ref=f6e206] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/affiliate&language=en-gb
+            - listitem [ref=f6e207]:
+              - link "Specials" [ref=f6e208] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/special&language=en-gb
+        - generic [ref=f6e209]:
+          - heading "My Account" [level=5] [ref=f6e210]
+          - list [ref=f6e211]:
+            - listitem [ref=f6e212]:
+              - link "My Account" [ref=f6e213] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/account&language=en-gb
+            - listitem [ref=f6e214]:
+              - link "Order History" [ref=f6e215] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/order&language=en-gb
+            - listitem [ref=f6e216]:
+              - link "Wish List" [ref=f6e217] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/wishlist&language=en-gb
+            - listitem [ref=f6e218]:
+              - link "Newsletter" [ref=f6e219] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/newsletter&language=en-gb
+      - separator [ref=f6e220]
+      - paragraph [ref=f6e221]:
+        - text: Powered By
+        - link "OpenCart" [ref=f6e222] [cursor=pointer]:
+          - /url: https://www.opencart.com
+        - text: Your Store © 2026

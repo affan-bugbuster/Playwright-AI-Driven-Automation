@@ -1,0 +1,233 @@
+- generic [ref=f10e1]:
+  - navigation [ref=f10e2]:
+    - generic [ref=f10e4]:
+      - list [ref=f10e6]:
+        - listitem [ref=f10e7]:
+          - link "$ Currency " [ref=f10e10] [cursor=pointer]:
+            - /url: "#"
+            - strong [ref=f10e11]: $
+            - text: Currency
+            - generic [ref=f10e12]: 
+        - listitem
+      - list [ref=f10e14]:
+        - listitem [ref=f10e15]:
+          - link " 123456789" [ref=f10e16] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=information/contact&language=en-gb
+            - generic [ref=f10e17]: 
+            - text: "123456789"
+        - listitem [ref=f10e18]:
+          - link " My Account " [ref=f10e20] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f10e21]: 
+            - text: My Account
+            - generic [ref=f10e22]: 
+        - listitem [ref=f10e23]:
+          - link " Wish List (0)" [ref=f10e24] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=account/wishlist&language=en-gb
+            - generic [ref=f10e25]: 
+            - text: Wish List (0)
+        - listitem [ref=f10e26]:
+          - link " Shopping Cart" [ref=f10e27] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=checkout/cart&language=en-gb
+            - generic [ref=f10e28]: 
+            - text: Shopping Cart
+        - listitem [ref=f10e29]:
+          - link " Checkout" [ref=f10e30] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=checkout/checkout&language=en-gb
+            - generic [ref=f10e31]: 
+            - text: Checkout
+  - banner [ref=f10e32]:
+    - generic [ref=f10e34]:
+      - link [ref=f10e37] [cursor=pointer]:
+        - /url: https://www.cloudberrystore.services/index.php?route=common/home&language=en-gb
+        - img "Your Store" [ref=f10e38]
+      - generic [ref=f10e40]:
+        - textbox "Search" [ref=f10e41]
+        - button "" [ref=f10e42] [cursor=pointer]
+      - button " 0 item(s) - $0.00" [ref=f10e46] [cursor=pointer]:
+        - generic [ref=f10e47]: 
+        - text: 0 item(s) - $0.00
+  - main [ref=f10e48]:
+    - navigation [ref=f10e50]:
+      - text: 
+      - list [ref=f10e52]:
+        - listitem [ref=f10e53]:
+          - link "Desktops" [ref=f10e54] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=20
+        - listitem [ref=f10e55]:
+          - link "Laptops & Notebooks" [ref=f10e56] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=18
+        - listitem [ref=f10e57]:
+          - link "Components" [ref=f10e58] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25
+        - listitem [ref=f10e59]:
+          - link "Tablets" [ref=f10e60] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=57
+        - listitem [ref=f10e61]:
+          - link "Software" [ref=f10e62] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=17
+        - listitem [ref=f10e63]:
+          - link "Phones & PDAs" [ref=f10e64] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=24
+        - listitem [ref=f10e65]:
+          - link "Cameras" [ref=f10e66] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=33
+        - listitem [ref=f10e67]:
+          - link "MP3 Players" [ref=f10e68] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34
+    - generic [ref=f10e71]:
+      - generic [ref=f10e72]:
+        - generic [ref=f10e73]:
+          - button [ref=f10e74] [cursor=pointer]
+          - button [ref=f10e75] [cursor=pointer]
+        - link [ref=f10e80] [cursor=pointer]:
+          - /url: index.php?route=product/product&path=57&product_id=49
+          - img "iPhone 6" [ref=f10e81]
+        - button "" [ref=f10e82] [cursor=pointer]
+        - button "" [ref=f10e84] [cursor=pointer]
+      - heading "Featured" [level=3] [ref=f10e86]
+      - generic [ref=f10e87]:
+        - generic [ref=f10e89]:
+          - link [ref=f10e91] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=43
+            - img "MacBook" [ref=f10e92]
+          - generic [ref=f10e93]:
+            - generic [ref=f10e94]:
+              - heading [level=4] [ref=f10e95]:
+                - link "MacBook" [ref=f10e96] [cursor=pointer]:
+                  - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=43
+              - paragraph [ref=f10e97]: Intel Core 2 Duo processor Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, t..
+              - generic [ref=f10e98]:
+                - text: $602.00
+                - generic [ref=f10e99]: "Ex Tax: $500.00"
+            - generic [ref=f10e100]:
+              - button "" [ref=f10e101] [cursor=pointer]
+              - button "" [ref=f10e103] [cursor=pointer]
+              - button "" [ref=f10e105] [cursor=pointer]
+        - generic [ref=f10e108]:
+          - link [ref=f10e110] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=40
+            - img "iPhone" [ref=f10e111]
+          - generic [ref=f10e112]:
+            - generic [ref=f10e113]:
+              - heading [level=4] [ref=f10e114]:
+                - link "iPhone" [ref=f10e115] [cursor=pointer]:
+                  - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=40
+              - paragraph [ref=f10e116]: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name o..
+              - generic [ref=f10e117]:
+                - text: $123.20
+                - generic [ref=f10e118]: "Ex Tax: $101.00"
+            - generic [ref=f10e119]:
+              - button "" [ref=f10e120] [cursor=pointer]
+              - button "" [ref=f10e122] [cursor=pointer]
+              - button "" [ref=f10e124] [cursor=pointer]
+        - generic [ref=f10e127]:
+          - link [ref=f10e129] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=42
+            - img "Apple Cinema 30\"" [ref=f10e130]
+          - generic [ref=f10e131]:
+            - generic [ref=f10e132]:
+              - heading [level=4] [ref=f10e133]:
+                - link "Apple Cinema 30\"" [ref=f10e134] [cursor=pointer]:
+                  - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=42
+              - paragraph [ref=f10e135]: The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed speci..
+              - generic [ref=f10e136]:
+                - text: $122.00
+                - generic [ref=f10e137]: "Ex Tax: $100.00"
+            - generic [ref=f10e138]:
+              - button "" [ref=f10e139] [cursor=pointer]
+              - button "" [ref=f10e141] [cursor=pointer]
+              - button "" [ref=f10e143] [cursor=pointer]
+        - generic [ref=f10e146]:
+          - link [ref=f10e148] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=30
+            - img "Canon EOS 5D" [ref=f10e149]
+          - generic [ref=f10e150]:
+            - generic [ref=f10e151]:
+              - heading [level=4] [ref=f10e152]:
+                - link "Canon EOS 5D" [ref=f10e153] [cursor=pointer]:
+                  - /url: https://www.cloudberrystore.services/index.php?route=product/product&language=en-gb&product_id=30
+              - paragraph [ref=f10e154]: Canon's press material for the EOS 5D states that it 'defines (a) new D-SLR category', while we're n..
+              - generic [ref=f10e155]:
+                - text: $122.00
+                - generic [ref=f10e156]: "Ex Tax: $100.00"
+            - generic [ref=f10e157]:
+              - button "" [ref=f10e158] [cursor=pointer]
+              - button "" [ref=f10e160] [cursor=pointer]
+              - button "" [ref=f10e162] [cursor=pointer]
+      - generic [ref=f10e164]:
+        - generic [ref=f10e165]:
+          - button [ref=f10e166] [cursor=pointer]
+          - button [ref=f10e167] [cursor=pointer]
+          - button [ref=f10e168] [cursor=pointer]
+        - generic [ref=f10e171]:
+          - img "Harley Davidson" [ref=f10e173]
+          - img "Dell" [ref=f10e175]
+          - img "Disney" [ref=f10e177]
+          - img "Coca Cola" [ref=f10e179]
+          - img "Burger King" [ref=f10e181]
+        - button "" [ref=f10e182] [cursor=pointer]
+        - button "" [ref=f10e184] [cursor=pointer]
+  - contentinfo [ref=f10e186]:
+    - generic [ref=f10e187]:
+      - generic [ref=f10e188]:
+        - generic [ref=f10e189]:
+          - heading "Information" [level=5] [ref=f10e190]
+          - list [ref=f10e191]:
+            - listitem [ref=f10e192]:
+              - link "Terms & Conditions" [ref=f10e193] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=2
+            - listitem [ref=f10e194]:
+              - link "Delivery Information" [ref=f10e195] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=4
+            - listitem [ref=f10e196]:
+              - link "About Us" [ref=f10e197] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=1
+            - listitem [ref=f10e198]:
+              - link "Privacy Policy" [ref=f10e199] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=3
+        - generic [ref=f10e200]:
+          - heading "Customer Service" [level=5] [ref=f10e201]
+          - list [ref=f10e202]:
+            - listitem [ref=f10e203]:
+              - link "Contact Us" [ref=f10e204] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/contact&language=en-gb
+            - listitem [ref=f10e205]:
+              - link "Returns" [ref=f10e206] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/returns.add&language=en-gb
+            - listitem [ref=f10e207]:
+              - link "Site Map" [ref=f10e208] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/sitemap&language=en-gb
+        - generic [ref=f10e209]:
+          - heading "Extras" [level=5] [ref=f10e210]
+          - list [ref=f10e211]:
+            - listitem [ref=f10e212]:
+              - link "Brands" [ref=f10e213] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/manufacturer&language=en-gb
+            - listitem [ref=f10e214]:
+              - link "Affiliate" [ref=f10e215] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/affiliate&language=en-gb
+            - listitem [ref=f10e216]:
+              - link "Specials" [ref=f10e217] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/special&language=en-gb
+        - generic [ref=f10e218]:
+          - heading "My Account" [level=5] [ref=f10e219]
+          - list [ref=f10e220]:
+            - listitem [ref=f10e221]:
+              - link "My Account" [ref=f10e222] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/account&language=en-gb
+            - listitem [ref=f10e223]:
+              - link "Order History" [ref=f10e224] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/order&language=en-gb
+            - listitem [ref=f10e225]:
+              - link "Wish List" [ref=f10e226] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/wishlist&language=en-gb
+            - listitem [ref=f10e227]:
+              - link "Newsletter" [ref=f10e228] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/newsletter&language=en-gb
+      - separator [ref=f10e229]
+      - paragraph [ref=f10e230]:
+        - text: Powered By
+        - link "OpenCart" [ref=f10e231] [cursor=pointer]:
+          - /url: https://www.opencart.com
+        - text: Your Store © 2026

@@ -1,0 +1,322 @@
+- generic [ref=f4e1]:
+  - navigation [ref=f4e2]:
+    - generic [ref=f4e4]:
+      - list [ref=f4e6]:
+        - listitem [ref=f4e7]:
+          - link "$ Currency " [ref=f4e10] [cursor=pointer]:
+            - /url: "#"
+            - strong [ref=f4e11]: $
+            - text: Currency
+            - generic [ref=f4e12]: 
+        - listitem
+      - list [ref=f4e14]:
+        - listitem [ref=f4e15]:
+          - link " 123456789" [ref=f4e16] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=information/contact&language=en-gb
+            - generic [ref=f4e17]: 
+            - text: "123456789"
+        - listitem [ref=f4e18]:
+          - link " My Account " [ref=f4e20] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f4e21]: 
+            - text: My Account
+            - generic [ref=f4e22]: 
+        - listitem [ref=f4e23]:
+          - link " Wish List (0)" [ref=f4e24] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=account/wishlist&language=en-gb
+            - generic [ref=f4e25]: 
+            - text: Wish List (0)
+        - listitem [ref=f4e26]:
+          - link " Shopping Cart" [ref=f4e27] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=checkout/cart&language=en-gb
+            - generic [ref=f4e28]: 
+            - text: Shopping Cart
+        - listitem [ref=f4e29]:
+          - link " Checkout" [ref=f4e30] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=checkout/checkout&language=en-gb
+            - generic [ref=f4e31]: 
+            - text: Checkout
+  - banner [ref=f4e32]:
+    - generic [ref=f4e34]:
+      - link [ref=f4e37] [cursor=pointer]:
+        - /url: https://www.cloudberrystore.services/index.php?route=common/home&language=en-gb
+        - img "Your Store" [ref=f4e38]
+      - generic [ref=f4e40]:
+        - textbox "Search" [ref=f4e41]
+        - button "" [ref=f4e42] [cursor=pointer]
+      - button " 0 item(s) - $0.00" [ref=f4e46] [cursor=pointer]:
+        - generic [ref=f4e47]: 
+        - text: 0 item(s) - $0.00
+  - main [ref=f4e48]:
+    - navigation [ref=f4e50]:
+      - text: 
+      - list [ref=f4e52]:
+        - listitem [ref=f4e53]:
+          - link "Desktops" [ref=f4e54] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=20
+        - listitem [ref=f4e55]:
+          - link "Laptops & Notebooks" [ref=f4e56] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=18
+        - listitem [ref=f4e57]:
+          - link "Components" [ref=f4e58] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25
+        - listitem [ref=f4e59]:
+          - link "Tablets" [ref=f4e60] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=57
+        - listitem [ref=f4e61]:
+          - link "Software" [ref=f4e62] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=17
+        - listitem [ref=f4e63]:
+          - link "Phones & PDAs" [ref=f4e64] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=24
+        - listitem [ref=f4e65]:
+          - link "Cameras" [ref=f4e66] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=33
+        - listitem [ref=f4e67]:
+          - link "MP3 Players" [ref=f4e68] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34
+    - generic [ref=f4e69]:
+      - list [ref=f4e70]:
+        - listitem [ref=f4e71]:
+          - link "" [ref=f4e72] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=common/home&language=en-gb
+        - listitem [ref=f4e74]:
+          - link "Site Map" [ref=f4e75] [cursor=pointer]:
+            - /url: https://www.cloudberrystore.services/index.php?route=information/sitemap&language=en-gb
+      - generic [ref=f4e77]:
+        - heading "Site Map" [level=1] [ref=f4e78]
+        - generic [ref=f4e79]:
+          - list [ref=f4e81]:
+            - listitem [ref=f4e82]:
+              - link "Desktops" [ref=f4e83] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=20
+              - list [ref=f4e84]:
+                - listitem [ref=f4e85]:
+                  - link "PC" [ref=f4e86] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=20_26
+                - listitem [ref=f4e87]:
+                  - link "Mac" [ref=f4e88] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=20_27
+            - listitem [ref=f4e89]:
+              - link "Laptops & Notebooks" [ref=f4e90] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=18
+              - list [ref=f4e91]:
+                - listitem [ref=f4e92]:
+                  - link "Macs" [ref=f4e93] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=18_46
+                - listitem [ref=f4e94]:
+                  - link "Windows" [ref=f4e95] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=18_45
+            - listitem [ref=f4e96]:
+              - link "Components" [ref=f4e97] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25
+              - list [ref=f4e98]:
+                - listitem [ref=f4e99]:
+                  - link "Mice and Trackballs" [ref=f4e100] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25_29
+                - listitem [ref=f4e101]:
+                  - link "Monitors" [ref=f4e102] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25_28
+                  - list [ref=f4e103]:
+                    - listitem [ref=f4e104]:
+                      - link "test 1" [ref=f4e105] [cursor=pointer]:
+                        - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25_28_35
+                    - listitem [ref=f4e106]:
+                      - link "test 2" [ref=f4e107] [cursor=pointer]:
+                        - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25_28_36
+                - listitem [ref=f4e108]:
+                  - link "Printers" [ref=f4e109] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25_30
+                - listitem [ref=f4e110]:
+                  - link "Scanners" [ref=f4e111] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25_31
+                - listitem [ref=f4e112]:
+                  - link "Web Cameras" [ref=f4e113] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=25_32
+            - listitem [ref=f4e114]:
+              - link "Tablets" [ref=f4e115] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=57
+            - listitem [ref=f4e116]:
+              - link "Software" [ref=f4e117] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=17
+            - listitem [ref=f4e118]:
+              - link "Phones & PDAs" [ref=f4e119] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=24
+            - listitem [ref=f4e120]:
+              - link "Cameras" [ref=f4e121] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=33
+            - listitem [ref=f4e122]:
+              - link "MP3 Players" [ref=f4e123] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34
+              - list [ref=f4e124]:
+                - listitem [ref=f4e125]:
+                  - link "test 11" [ref=f4e126] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_43
+                - listitem [ref=f4e127]:
+                  - link "test 12" [ref=f4e128] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_44
+                - listitem [ref=f4e129]:
+                  - link "test 15" [ref=f4e130] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_47
+                - listitem [ref=f4e131]:
+                  - link "test 16" [ref=f4e132] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_48
+                - listitem [ref=f4e133]:
+                  - link "test 17" [ref=f4e134] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_49
+                - listitem [ref=f4e135]:
+                  - link "test 18" [ref=f4e136] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_50
+                - listitem [ref=f4e137]:
+                  - link "test 19" [ref=f4e138] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_51
+                - listitem [ref=f4e139]:
+                  - link "test 20" [ref=f4e140] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_52
+                  - list [ref=f4e141]:
+                    - listitem [ref=f4e142]:
+                      - link "test 25" [ref=f4e143] [cursor=pointer]:
+                        - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_52_58
+                - listitem [ref=f4e144]:
+                  - link "test 21" [ref=f4e145] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_53
+                - listitem [ref=f4e146]:
+                  - link "test 22" [ref=f4e147] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_54
+                - listitem [ref=f4e148]:
+                  - link "test 23" [ref=f4e149] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_55
+                - listitem [ref=f4e150]:
+                  - link "test 24" [ref=f4e151] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_56
+                - listitem [ref=f4e152]:
+                  - link "test 4" [ref=f4e153] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_38
+                - listitem [ref=f4e154]:
+                  - link "test 5" [ref=f4e155] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_37
+                - listitem [ref=f4e156]:
+                  - link "test 6" [ref=f4e157] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_39
+                - listitem [ref=f4e158]:
+                  - link "test 7" [ref=f4e159] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_40
+                - listitem [ref=f4e160]:
+                  - link "test 8" [ref=f4e161] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_41
+                - listitem [ref=f4e162]:
+                  - link "test 9" [ref=f4e163] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=product/category&language=en-gb&path=34_42
+          - list [ref=f4e165]:
+            - listitem [ref=f4e166]:
+              - link "Special Offers" [ref=f4e167] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/special&language=en-gb
+            - listitem [ref=f4e168]:
+              - link "My Account" [ref=f4e169] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/account&language=en-gb
+              - list [ref=f4e170]:
+                - listitem [ref=f4e171]:
+                  - link "Edit Information" [ref=f4e172] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=account/edit&language=en-gb
+                - listitem [ref=f4e173]:
+                  - link "Password" [ref=f4e174] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=account/password&language=en-gb
+                - listitem [ref=f4e175]:
+                  - link "Address Book" [ref=f4e176] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=account/address&language=en-gb
+                - listitem [ref=f4e177]:
+                  - link "Order History" [ref=f4e178] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=account/order&language=en-gb
+                - listitem [ref=f4e179]:
+                  - link "Downloads" [ref=f4e180] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=account/download&language=en-gb
+            - listitem [ref=f4e181]:
+              - link "Shopping Cart" [ref=f4e182] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=checkout/cart&language=en-gb
+            - listitem [ref=f4e183]:
+              - link "Checkout" [ref=f4e184] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=checkout/checkout&language=en-gb
+            - listitem [ref=f4e185]:
+              - link "Search" [ref=f4e186] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/search&language=en-gb
+            - listitem [ref=f4e187]:
+              - text: Information
+              - list [ref=f4e188]:
+                - listitem [ref=f4e189]:
+                  - link "Terms & Conditions" [ref=f4e190] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=2
+                - listitem [ref=f4e191]:
+                  - link "Delivery Information" [ref=f4e192] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=4
+                - listitem [ref=f4e193]:
+                  - link "About Us" [ref=f4e194] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=1
+                - listitem [ref=f4e195]:
+                  - link "Privacy Policy" [ref=f4e196] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=3
+                - listitem [ref=f4e197]:
+                  - link "Contact Us" [ref=f4e198] [cursor=pointer]:
+                    - /url: https://www.cloudberrystore.services/index.php?route=information/contact&language=en-gb
+  - contentinfo [ref=f4e199]:
+    - generic [ref=f4e200]:
+      - generic [ref=f4e201]:
+        - generic [ref=f4e202]:
+          - heading "Information" [level=5] [ref=f4e203]
+          - list [ref=f4e204]:
+            - listitem [ref=f4e205]:
+              - link "Terms & Conditions" [ref=f4e206] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=2
+            - listitem [ref=f4e207]:
+              - link "Delivery Information" [ref=f4e208] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=4
+            - listitem [ref=f4e209]:
+              - link "About Us" [ref=f4e210] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=1
+            - listitem [ref=f4e211]:
+              - link "Privacy Policy" [ref=f4e212] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/information&language=en-gb&information_id=3
+        - generic [ref=f4e213]:
+          - heading "Customer Service" [level=5] [ref=f4e214]
+          - list [ref=f4e215]:
+            - listitem [ref=f4e216]:
+              - link "Contact Us" [ref=f4e217] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/contact&language=en-gb
+            - listitem [ref=f4e218]:
+              - link "Returns" [ref=f4e219] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/returns.add&language=en-gb
+            - listitem [ref=f4e220]:
+              - link "Site Map" [ref=f4e221] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=information/sitemap&language=en-gb
+        - generic [ref=f4e222]:
+          - heading "Extras" [level=5] [ref=f4e223]
+          - list [ref=f4e224]:
+            - listitem [ref=f4e225]:
+              - link "Brands" [ref=f4e226] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/manufacturer&language=en-gb
+            - listitem [ref=f4e227]:
+              - link "Affiliate" [ref=f4e228] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/affiliate&language=en-gb
+            - listitem [ref=f4e229]:
+              - link "Specials" [ref=f4e230] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=product/special&language=en-gb
+        - generic [ref=f4e231]:
+          - heading "My Account" [level=5] [ref=f4e232]
+          - list [ref=f4e233]:
+            - listitem [ref=f4e234]:
+              - link "My Account" [ref=f4e235] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/account&language=en-gb
+            - listitem [ref=f4e236]:
+              - link "Order History" [ref=f4e237] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/order&language=en-gb
+            - listitem [ref=f4e238]:
+              - link "Wish List" [ref=f4e239] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/wishlist&language=en-gb
+            - listitem [ref=f4e240]:
+              - link "Newsletter" [ref=f4e241] [cursor=pointer]:
+                - /url: https://www.cloudberrystore.services/index.php?route=account/newsletter&language=en-gb
+      - separator [ref=f4e242]
+      - paragraph [ref=f4e243]:
+        - text: Powered By
+        - link "OpenCart" [ref=f4e244] [cursor=pointer]:
+          - /url: https://www.opencart.com
+        - text: Your Store © 2026
